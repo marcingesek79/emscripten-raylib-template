@@ -3,6 +3,7 @@ Template for a CMake + Raylib + Emscripten + CPP project.
 
 # Prerequisites
 Install emscripten (https://emscripten.org/docs/getting_started/downloads.html)
+
 Install CMake 3.25 or newer
 
 # How to build?
