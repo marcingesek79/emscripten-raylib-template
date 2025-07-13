@@ -27,3 +27,4 @@ python3 -m http.server 8000 --directory page
 ... and then enter localhost:8000 in the web browser
 
 
+You can omit build flags in the first step to compile it for the desktop.
